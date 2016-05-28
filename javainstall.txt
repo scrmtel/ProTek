@@ -1,0 +1,7 @@
+sudo yum install java-1.6.0-openjdk===Java installation
+
+sudo yum install java-1.6.0-openjdk-devel==Javac installation
+
+sudo yum install java-1.7.0-openjdk-devel
+
+sudo yum install java-1.8.0-openjdk-devel
