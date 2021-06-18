@@ -22,3 +22,12 @@ name=Jenkins
 baseurl=http://pkg.jenkins.io/redhat
 gpgcheck=1
 
+
+After this, you can run again yum install jenkins 
+
+check telnet ipaddress 8080 
+and add this port in security inbound rules 
+
+http://publicipdaddress:8080 , you will see the jenkins page.
+
+
